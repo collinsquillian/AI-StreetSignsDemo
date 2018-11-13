@@ -10,7 +10,7 @@ echo --- Author: jonas.witt
 
 echo -- Loading evironment variable for global python reference
 ::Powershell -Command "Start-Process cmd -Verb RunAs"
-::cd ../../Users/ba051528/Desktop
+::cd ../../Users/?????/Desktop
 ::python get-pip.py
 
 

@@ -1,3 +1,7 @@
-The BTSC classification datset comes preloaded into the StreetSigns folder.
+WGG 4.0 - Digitalisierung
 
-There are various other scripts and installers in order to set up the development environment.
+Workshop Building Artificial Intelligence
+
+Here you will find various scripts and installers for configuring the development environment.
+
+The BTSC classification datset comes preloaded into the StreetSigns folder.

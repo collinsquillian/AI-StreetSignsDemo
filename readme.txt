@@ -21,3 +21,13 @@ Install notepad++ by executing npp.7.5.9.Installer.x64
 		
 --- II. script called localvirtualenv, execute as administrator
 		open administrator console and execute
+
+
+WGG 4.0 - Digitalisierung
+
+Workshop Building Artificial Intelligence
+
+
+Here you will find various scripts and installers in order to configure the development environment.
+
+The BTSC classification datset comes preloaded into the StreetSigns folder.

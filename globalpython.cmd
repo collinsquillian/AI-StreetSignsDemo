@@ -6,7 +6,7 @@ echo --- Author: jonas.witt
 
 echo -- Installing python 3.5.0
 call python-3.5.0-amd64 /passive InstallAllUsers=1 PrependPath=1 Include_test=0
-setx path "%path%;C:\Users\ba051528\AppData\Local\Programs\Python\Python35;"
+setx path "%path%;C:\Users\?????\AppData\Local\Programs\Python\Python35;"
 
 echo -- Installing pip = packaging service
 
